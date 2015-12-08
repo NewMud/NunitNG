@@ -1,0 +1,10 @@
+
+TAAS - Test as a Service
+
+NGunit - test driver
+
+Service Controller - dispatcher test execution
+
+Service Agent - execute test task
+
+Report web UI
